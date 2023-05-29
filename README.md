@@ -1,2 +1,5 @@
-# coding_for_healthcare_professionals
-Source code for the online book Coding for Healthcare Professionals
+# Coding for Healthcare Professionals
+
+```{include} coding_for_healthcare_professionals/preface.md
+:start-line: 2
+```
