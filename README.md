@@ -4,7 +4,7 @@
 
 Welcome to the **Coding for Healthcare Professionals** GitHub repository.
 
-To read or use this book, please head over to the [Coding for Healthcare Professionals website](cfhp.oliverjwroberts.com).
+To read or use this book, please head over to the [Coding for Healthcare Professionals website].
 
 <!-- Preface -->
 
@@ -96,6 +96,7 @@ The idea behind this book was heavily driven by [@aeturrell]'s [Coding for Econo
 
 We expect there will be many more to thank as this book is developed and will ensure everyone is acknowledged here.
 
+[coding for healthcare professionals website]: https://cfhp.oliverjwroberts.com/
 [@aeturrell]: https://github.com/aeturrell
 [coding for economists book]: https://github.com/aeturrell/coding-for-economists
 
