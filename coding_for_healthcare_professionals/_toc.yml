@@ -3,3 +3,12 @@
 
 format: jb-book
 root: preface
+defaults:  # The defaults key will be applied to all chapters and sub-sections
+  titlesonly: True
+  maxdepth: 2  # The displayed Table of Contents will only have two levels
+parts:
+  - caption: End Matter
+    chapters:
+    - file: acknowledgements
+    - file: contributing
+    - file: bibliography
